@@ -28,7 +28,7 @@
     "@ampproject/toolbox-runtime-fetch": "3.0.0-canary.2",
     "@ampproject/toolbox-runtime-version": "3.0.0-canary.2",
     "@ampproject/toolbox-update-cache": "3.0.0-canary.2",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "minimist-options": "4.1.0",
     "node-fetch": "2.6.7"
   },
